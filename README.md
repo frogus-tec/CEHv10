@@ -1,5 +1,5 @@
 # CEHv10
-Leaked slides and labs
+Leaked slides, labs and tools
 
 ### About Author
 ManhNho - A grey hat hacker who be listed in ECCouncil's Hall of Fame
